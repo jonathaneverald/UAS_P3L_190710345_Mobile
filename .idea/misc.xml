@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PERKULIAHAN/Semester 6/P3L/Mobile/p3l/app/src/main/res/layout/activity_customer.xml" value="0.36666666666666664" />
+        <entry key="..\:/PERKULIAHAN/Semester 6/P3L/Mobile/p3l/app/src/main/res/layout/activity_edit_driver.xml" value="0.36102564102564105" />
+        <entry key="..\:/PERKULIAHAN/Semester 6/P3L/Mobile/p3l/app/src/main/res/layout/activity_laporan.xml" value="0.36102564102564105" />
+        <entry key="..\:/PERKULIAHAN/Semester 6/P3L/Mobile/p3l/app/src/main/res/layout/activity_login.xml" value="0.36102564102564105" />
+        <entry key="..\:/PERKULIAHAN/Semester 6/P3L/Mobile/p3l/app/src/main/res/layout/activity_main.xml" value="0.36102564102564105" />
+        <entry key="..\:/PERKULIAHAN/Semester 6/P3L/Mobile/p3l/app/src/main/res/layout/activity_transaksi_customer.xml" value="0.36102564102564105" />
+        <entry key="..\:/PERKULIAHAN/Semester 6/P3L/Mobile/p3l/app/src/main/res/layout/activity_transaksi_driver.xml" value="0.36102564102564105" />
+        <entry key="..\:/PERKULIAHAN/Semester 6/P3L/Mobile/p3l/app/src/main/res/layout/cardview_mobil.xml" value="0.2703125" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_customer.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_driver.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_edit_customer.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_edit_driver.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_laporan.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_login.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_manager.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_mobil.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_profil_customer.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_profil_driver.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_promo.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_transaksi_customer.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/activity_transaksi_driver.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/cardview_mobil.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/cardview_promo.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/cardview_transaksi.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/fragment_mobil.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/fragment_profile.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/fragment_profile_driver.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/fragment_promo.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/fragment_transaksi_customer.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/fragment_transaksi_driver.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/layout/item_list.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/jodhy/OneDrive/Documents/p3l/app/src/main/res/menu/bottom_navigation_menu_driver.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
